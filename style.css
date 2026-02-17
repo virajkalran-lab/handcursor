@@ -1,0 +1,16 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    font-size: large;
+    color: blueviolet;
+    background-color: black;
+}
+a{
+    color: rgb(161, 8, 192);
+}
+a:visited {
+    color: rgb(102, 18, 158);
+}
+body::selection {
+    color: darkcyan;
+    background-color: rgb(23, 65, 66);
+} 
